@@ -1,4 +1,5 @@
-```AIFFEL_quest_rs
+```bash
+AIFFEL_quest_rs
 ├── MainQuest
 │   ├── Quest01
 │   │   ├── Quest01.ipynb
@@ -73,4 +74,5 @@
     │   └── README.md
     └── Gd09
         ├── Gd09.ipynb
-        └── README.md```
+        └── README.md
+```
