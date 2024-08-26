@@ -8,6 +8,7 @@
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
         ![image](https://github.com/user-attachments/assets/5c789c2c-836f-43a5-8bcc-1fe34f06db52)
+        ![image](https://github.com/user-attachments/assets/76994c2a-ee3a-4854-86b2-ee4dc3395548)
 
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
